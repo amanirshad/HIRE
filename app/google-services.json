@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395174794653",
+    "project_id": "hiring-2c91f",
+    "storage_bucket": "hiring-2c91f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395174794653:android:8d520b868780f3523f4b74",
+        "android_client_info": {
+          "package_name": "com.example.hiring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395174794653-olquf30hmbi0hq7imn243f80n7hm8j3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj8eU8QTG2zFuwuidR8IBFIjUlabnUMi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395174794653-olquf30hmbi0hq7imn243f80n7hm8j3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
